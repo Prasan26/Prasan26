@@ -15,7 +15,7 @@
 - Previously I have mentored at:  Hack The Mountains, Hack this fall, shell hacks, hackodisha, Octafest, FIU Annual hackathon, Div Hacks, GeorgeTown, HackSC. There I mentored the participants in the field of Cybersecurity and programming. 
 - I have judged at hackathons: hackodisha, SunHacks, Deltahack8. 
 - I also have been a panelist and speaker at Div Hacks (Columbia University) and Octafest'21. 
-- 👨‍💻 Founder: [@Cyber-Junk](https://github.com/Cyber-Junk)
+- 👨‍💻 Building: [@Cyber-Junk](https://github.com/Cyber-Junk)
 
 <p align="left"> <a href="https://twitter.com/parsan26" target="blank"><img src="https://img.shields.io/twitter/follow/parsan26?logo=twitter&style=for-the-badge" alt="parsan26" /></a> </p>
 
