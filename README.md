@@ -1,8 +1,6 @@
 ### Hi, I'm Prasan Singh 👋
 
 
-
-- 🔭 I’m a curious university student.
 - 🌱 I’m currently learning Cybersecurity.
 - 👯 I’m looking to collaborate on Hackathons.
 - 🤔 I’m looking for help with Information security research.
